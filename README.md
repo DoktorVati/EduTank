@@ -1,6 +1,8 @@
 # EduTank
 # Google Play Download Link: https://play.google.com/store/apps/details?id=com.InhibiousStudios.EduTank
 
+# Computer Download Link: https://doktorvati.itch.io/edutank
+
 During the creation of this educational tank game, I wrote a 19 page conference ready research paper. 
 Here is the Research Abstract: 
 
